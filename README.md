@@ -19,5 +19,5 @@ In this project, we are performing a complete Exploratory Data Analysis on Rerai
 
 
 1. `EDA.ipynb`: A Jupyter Notebook for the EDA
-2. `EDA.slides.htms`: An HTML file with the most important conclusions
+2. `EDA.slides.html`: An HTML file with the most important conclusions
 
